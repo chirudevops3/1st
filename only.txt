@@ -1,0 +1,3 @@
+add lin 1`:wq
+:wq
+
